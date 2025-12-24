@@ -45,10 +45,11 @@ class SumersingSpatil:
 <div align="center">
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-6B7280?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-6B7280?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-FF4B4B?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-FF4B4B?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-FF4B4B?style=for-the-badge&logo=css3&logoColor=white" />
+
 
 ### AI/ML & Data Science
 <img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -105,8 +106,6 @@ I'm passionate about leveraging **AI and Machine Learning** to solve real-world 
 📚 Learning **Deep Learning & Neural Networks**  
 🚀 Building **production-ready ML applications**  
 🤝 Contributing to **open-source AI projects**  
-⚡ Fun fact: **Bollywood movies inspire my algorithms!** 🎬
-
 </div>
 
 ---
@@ -127,7 +126,7 @@ I'm passionate about leveraging **AI and Machine Learning** to solve real-world 
 
 ---
 
-## 📫 Connect With Me
+## 📞 Connect With Me
 
 <div align="center">
 
