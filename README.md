@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class Sumersing patil:
+class Sumersing_patil:
     def __init__(self):
         self.name = "Sumersing Patil"
         self.role = "Python Developer | AI/ML Developer & Data Scientist"
