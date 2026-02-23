@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile%20Views&color=a78bfa&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" alt="Followers" />
+<img src="https://img.shields.io/github/followers/sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" alt="Followers" />
 </div>
 
 ---
