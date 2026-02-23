@@ -3,9 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" />
+  <img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Sumersingpatil2694?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </div>
+
 
 ---
 
