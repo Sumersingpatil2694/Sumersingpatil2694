@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" alt="Followers" />
-<img src="https://img.shields.io/github/followers/sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" alt="GitHub Followers" />
 </div>
 
 ---
