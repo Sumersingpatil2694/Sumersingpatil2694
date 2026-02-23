@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=a78bfa" />
 </div>
 
 ---
