@@ -87,7 +87,7 @@ An intelligent movie recommendation system using **content-based filtering** and
 
 ### 🗺️ Indian Travel Recommender System
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://lku3ycfvtzsngc5c2fbexg.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)]([![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/AI-powered-Movie-Recommender-System))
+[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/AI-powered-Movie-Recommender-System))
 
 A smart travel recommendation system that discovers amazing destinations across India based on user preferences and interests using machine learning algorithms.
 
