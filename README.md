@@ -89,7 +89,7 @@ An intelligent movie recommendation system using **content-based filtering** and
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://fake-job-detection-and-hiring-market-analysis-awvywvr4samzscx5.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/Fake-Job-Detection-And-Hiring-Market-Analysis)
 
-A smart travel recommendation system that discovers amazing destinations across India based on user preferences and interests using machine learning algorithms.
+AI-powered Fake Job Detection System using NLP, TF-IDF, Logistic Regression & SMOTE. Features SHAP explainability, Power BI dashboard, MySQL integration, and Streamlit web app. AUC-ROC: 0.984
 
 **Tech Stack:** `Python` `Streamlit` `Machine Learning` `Data Analytics`
 
