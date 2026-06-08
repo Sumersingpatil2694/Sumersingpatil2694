@@ -18,12 +18,11 @@
 class Sumersing_patil:
     def __init__(self):
         self.name = "Sumersing Patil"
-        self.role = "Python Developer | AI/ML Developer & Data Scientist"
+        self.role = "Data Analyst | Python Developer | AI/ML Developer"
         self.location = "Pune, India 🇮🇳"
         self.education = "B.Tech in Artificial Intelligence, G H Raisoni Institute of Business Management, Jalgaon"
-        self.status = "Actively Seeking Opportunities in AI/ML & Data Science"
-        self.skills = ["Machine Learning", "Deep Learning", "Data Analysis", 
-                      "Python", "SQL"]
+        self.status = "Actively Seeking Opportunities in Data Analyst & AI/ML"
+        self.skills = ["Machine Learning", "Data Analysis", "Python", "SQL"]
         
     def current_focus(self):
         return {
@@ -91,7 +90,7 @@ An intelligent movie recommendation system using **content-based filtering** and
 
 AI-powered Fake Job Detection System using NLP, TF-IDF, Logistic Regression & SMOTE. Features SHAP explainability, Power BI dashboard, MySQL integration, and Streamlit web app. AUC-ROC: 0.984
 
-**Tech Stack:** `Python` `Streamlit` `Machine Learning` `Data Analytics`
+**Tech Stack:** `Python` `Streamlit` `Machine Learning` `Data Analytics` `Power BI`
 
 </div>
 
