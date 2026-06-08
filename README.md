@@ -94,8 +94,6 @@ An intelligent movie recommendation system using **content-based filtering** and
 
 **Tech Stack:** `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn` `TMDB API`
 
-<div align="center">
-
 ## 💡 What Drives Me
 
 <div align="center">
