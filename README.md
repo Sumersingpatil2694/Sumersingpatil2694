@@ -85,6 +85,7 @@ AI-powered Fake Job Detection System using NLP, TF-IDF, Logistic Regression & SM
 </div>
 
 ---
+<div align="center">
 
 ### 🎬 AI-Powered Movie Recommender System
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-powered-movie-recommender-system-gujjmxpslzqqlvypgiju7v.streamlit.app/)
@@ -93,6 +94,8 @@ AI-powered Fake Job Detection System using NLP, TF-IDF, Logistic Regression & SM
 An intelligent movie recommendation system using **content-based filtering** and **cosine similarity** with TMDB API integration for personalized suggestions, trailers, and detailed movie information.
 
 **Tech Stack:** `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn` `TMDB API`
+
+---
 
 ## 💡 What Drives Me
 
