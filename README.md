@@ -74,16 +74,6 @@ class Sumersing_patil:
 
 <div align="center">
 
-### 🎬 AI-Powered Movie Recommender System
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-powered-movie-recommender-system-gujjmxpslzqqlvypgiju7v.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/AI-powered-Movie-Recommender-System)
-
-An intelligent movie recommendation system using **content-based filtering** and **cosine similarity** with TMDB API integration for personalized suggestions, trailers, and detailed movie information.
-
-**Tech Stack:** `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn` `TMDB API`
-
----
-
 ### 🛡️ Fake Job Detection & Hiring Market Analysis
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://fake-job-detection-and-hiring-market-analysis-awvywvr4samzscx5.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/Fake-Job-Detection-And-Hiring-Market-Analysis)
@@ -95,6 +85,16 @@ AI-powered Fake Job Detection System using NLP, TF-IDF, Logistic Regression & SM
 </div>
 
 ---
+
+### 🎬 AI-Powered Movie Recommender System
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-powered-movie-recommender-system-gujjmxpslzqqlvypgiju7v.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/AI-powered-Movie-Recommender-System)
+
+An intelligent movie recommendation system using **content-based filtering** and **cosine similarity** with TMDB API integration for personalized suggestions, trailers, and detailed movie information.
+
+**Tech Stack:** `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn` `TMDB API`
+
+<div align="center">
 
 ## 💡 What Drives Me
 
