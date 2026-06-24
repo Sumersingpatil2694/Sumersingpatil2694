@@ -1,14 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hello!+%F0%9F%91%8B+I'm+Sumersing+Patil;AI%2FML+Developer+%7C+Data+Analyst" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Sumersingpatil2694?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sumersing+Patil;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile+Views&color=6366f1&style=flat-square" />
+&nbsp;
+<a href="https://github.com/Sumersingpatil2694?tab=followers">
+  <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=6366f1" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sumersing-patil-839674234">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+</a>
+
+</div>
 
 ---
 
