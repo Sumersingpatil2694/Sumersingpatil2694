@@ -160,7 +160,7 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 
 **Stack:** `Python` `NLP` `Scikit-learn` `MySQL` `Power BI` `Streamlit` `SHAP` `SMOTE`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://fake-job-detection-and-hiring-market-analysis-awvywvr4samzscx5.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://fake-job-detection-and-hiring-market-analysis-2026.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694/Fake-Job-Detection-And-Hiring-Market-Analysis)
 
 ---
