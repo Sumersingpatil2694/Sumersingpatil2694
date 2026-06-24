@@ -18,25 +18,23 @@
 
 ---
 
-## 👨‍💻 About Me
+---
 
-```python
-class Sumersing_patil:
-    def __init__(self):
-        self.name = "Sumersing Patil"
-        self.role = "Data Analyst | Python Developer | AI/ML Developer"
-        self.location = "Pune, India 🇮🇳"
-        self.education = "B.Tech in Artificial Intelligence, G H Raisoni Institute of Business Management, Jalgaon"
-        self.status = "Actively Seeking Opportunities in Data Analyst & AI/ML"
-        self.skills = ["Machine Learning", "Data Analysis", "Python", "SQL"]
-        
-    def current_focus(self):
-        return {
-            "learning": ["ML", "HTML/CSS", "Power-BI"],
-            "building": ["AI Recommendation Systems", "Data Solutions"],
-            "goal": "Contributing to impactful AI/ML projects"
-        }
-```
+## 👨‍💼 About Me
+
+**B.Tech in Artificial Intelligence** | Pune, India 🇮🇳
+
+I'm a data analyst focused on building end-to-end analytical solutions — from raw data ingestion and SQL modeling to machine learning pipelines and interactive dashboards. My work sits at the intersection of **data engineering, analytics, and applied ML**.
+
+- 🎓 **Education:** G H Raisoni Institute of Engineering & Business Management, Jalgaon — CGPA: 7.61
+- 💼 **Experience:** Data Science Intern @ 3RI Technologies Pvt Ltd (Jan 2024 – Jun 2024)
+- 🔍 **Currently:** Open to Data Analyst roles (Entry–Mid level)
+- 🏗️ **Latest Project:** EV Charging Station Demand Analysis — 23-country ML pipeline (Streamlit + MySQL + Prophet)
+- 📊 **Tools I reach for first:** Python, SQL, Power BI, Pandas, Scikit-learn
+- 🧠 **90+ LeetCode problems** solved (SQL + Python)
+- 📬 **Reach me:** sumersingpatil0193@gmail.com
+
+---
 
 ---
 
