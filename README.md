@@ -24,7 +24,7 @@
 
 I'm a data analyst focused on building end-to-end analytical solutions — from raw data ingestion and SQL modeling to machine learning pipelines and interactive dashboards. My work sits at the intersection of **data engineering, analytics, and applied ML**.
 
-- 🎓 **Education:** G H Raisoni Institute of Engineering & Business Management, Jalgaon — CGPA: 7.61
+- 🎓 **Education:** G H Raisoni Institute of Engineering & Business Management, Jalgaon 
 - 💼 **Experience:** Data Science Intern @ 3RI Technologies Pvt Ltd (Jan 2024 – Jun 2024)
 - 🔍 **Currently:** Open to Data Analyst roles (Entry–Mid level)
 - 🏗️ **Latest Project:** EV Charging Station Demand Analysis — 23-country ML pipeline (Streamlit + MySQL + Prophet)
