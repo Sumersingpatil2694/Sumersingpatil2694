@@ -70,30 +70,66 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+### ⚡ EV Charging Station Demand Analysis
 
-### 🛡️ Fake Job Detection & Hiring Market Analysis
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://fake-job-detection-and-hiring-market-analysis-awvywvr4samzscx5.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/Fake-Job-Detection-And-Hiring-Market-Analysis)
+> Multi-country infrastructure analysis across **23 European nations** — end-to-end ML + BI pipeline
 
-AI-powered Fake Job Detection System using NLP, TF-IDF, Logistic Regression & SMOTE. Features SHAP explainability, Power BI dashboard, MySQL integration, and Streamlit web app. AUC-ROC: 0.984
+- Cleaned and engineered synthetic dirty data; modeled in **MySQL** with analytical SQL views
+- Built **Random Forest** demand classifier + **Prophet** time-series forecasting
+- Deployed interactive **Streamlit** dashboard with Folium geospatial maps, Plotly charts, and 9 analytical tabs
+- Full pipeline: Raw CSV → MySQL → Jupyter (EDA + ML) → Streamlit → Power BI
 
-**Tech Stack:** `Python` `Streamlit` `Machine Learning` `Data Analytics` `Power BI`
+**Stack:** `Python` `MySQL` `Streamlit` `Scikit-learn` `Prophet` `Folium` `Plotly` `Power BI`
 
-</div>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ev-charging-infrastructure-demand-analysis-june-2026.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694)
 
 ---
-<div align="center">
+
+### 🛡️ Fake Job Detection & Hiring Market Analysis
+
+> NLP-powered classification system on **17,880 job postings** — AUC-ROC: **0.984**
+
+- Built end-to-end ML pipeline: TF-IDF vectorization → Logistic Regression → SMOTE for class imbalance
+- Added **SHAP explainability** to surface top features driving fake job predictions
+- Integrated **MySQL** (6 analytical views), **Power BI** dashboard, and deployed on Streamlit Cloud
+- Chi-square hypothesis testing added to validate statistical significance of findings
+
+**Stack:** `Python` `NLP` `Scikit-learn` `MySQL` `Power BI` `Streamlit` `SHAP` `SMOTE`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://fake-job-detection-and-hiring-market-analysis-awvywvr4samzscx5.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694/Fake-Job-Detection-And-Hiring-Market-Analysis)
+
+---
 
 ### 🎬 AI-Powered Movie Recommender System
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-powered-movie-recommender-system-gujjmxpslzqqlvypgiju7v.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumersingpatil2694/AI-powered-Movie-Recommender-System)
 
-An intelligent movie recommendation system using **content-based filtering** and **cosine similarity** with TMDB API integration for personalized suggestions, trailers, and detailed movie information.
+> Content-based filtering system using **cosine similarity** + TMDB API integration
 
-**Tech Stack:** `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn` `TMDB API`
+- Recommends movies based on genre, cast, director, and keywords
+- Fetches live movie posters, trailers, and metadata via TMDB API
+- Deployed as a Streamlit web app with clean UI
+
+**Stack:** `Python` `Streamlit` `Scikit-learn` `Pandas` `TMDB API`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ai-powered-movie-recommender-system-gujjmxpslzqqlvypgiju7v.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694/AI-powered-Movie-Recommender-System)
+
+---
+
+### 📊 Student Exam Performance Analysis
+
+> EDA on **1,000+ student records** — identifying performance trends across demographics
+
+- Cleaned and explored dataset using **Python (Pandas, Seaborn)** to uncover trends across gender, parental education, and test preparation
+- Executed **MySQL** queries to identify key factors influencing Math, Reading, and Writing scores
+- Created visualizations using **Matplotlib & Seaborn** to present score distributions and demographic patterns
+
+**Stack:** `Python` `MySQL` `Pandas` `Seaborn` `Matplotlib`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694)
 
 ---
 
