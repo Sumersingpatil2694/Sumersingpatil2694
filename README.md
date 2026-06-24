@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## 👨‍💼 About Me
 
 **B.Tech in Artificial Intelligence** | Pune, India 🇮🇳
@@ -33,8 +31,6 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 - 📊 **Tools I reach for first:** Python, SQL, Power BI, Pandas, Scikit-learn
 - 🧠 **90+ LeetCode problems** solved (SQL + Python)
 - 📬 **Reach me:** sumersingpatil0193@gmail.com
-
----
 
 ---
 
