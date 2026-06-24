@@ -27,7 +27,7 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 - 🎓 **Education:** G H Raisoni Institute of Engineering & Business Management, Jalgaon 
 - 💼 **Experience:** Data Science Intern @ 3RI Technologies Pvt Ltd (Jan 2024 – Jun 2024)
 - 🔍 **Currently:** Open to Data Analyst roles (Entry–Mid level)
-- 🏗️ **Latest Project:** EV Charging Station Demand Analysis — 23-country ML pipeline (Streamlit + MySQL + Prophet + Power BI)
+- 🏗️ **Latest Project:** EV Charging Station Demand Analysis — 23-country ML pipeline (Python + MySQL + Prophet + Power BI + Streamlit)
 - 📊 **Tools I reach for first:** Python, SQL, Power BI, Pandas, Scikit-learn
 - 🧠 **100+ LeetCode problems** solved (SQL + Python)
 - 📬 **Reach me:** sumersingpatil0193@gmail.com
