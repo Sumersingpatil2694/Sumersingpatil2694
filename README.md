@@ -150,13 +150,6 @@ I'm passionate about leveraging **AI and Machine Learning** to solve real-world 
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
   
 ### 💬 Random Dev Quote
