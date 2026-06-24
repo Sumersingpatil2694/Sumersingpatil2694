@@ -175,7 +175,7 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 
 **Stack:** `Python` `Streamlit` `Scikit-learn` `Pandas` `TMDB API`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ai-powered-movie-recommender-system-gujjmxpslzqqlvypgiju7v.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ai-powered-movie-recommender-system-2025.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694/AI-powered-Movie-Recommender-System)
 
 ---
