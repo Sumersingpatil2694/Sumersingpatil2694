@@ -29,7 +29,7 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 - 🔍 **Currently:** Open to Data Analyst roles (Entry–Mid level)
 - 🏗️ **Latest Project:** EV Charging Station Demand Analysis — 23-country ML pipeline (Streamlit + MySQL + Prophet)
 - 📊 **Tools I reach for first:** Python, SQL, Power BI, Pandas, Scikit-learn
-- 🧠 **90+ LeetCode problems** solved (SQL + Python)
+- 🧠 **100+ LeetCode problems** solved (SQL + Python)
 - 📬 **Reach me:** sumersingpatil0193@gmail.com
 
 ---
