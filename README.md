@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>
-  <span style="color:#6366F1;">Hi 👋 I'm Sumersing Patil</span>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sumersing+Patil;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile+Views&color=6366f1&style=flat-square" />
 &nbsp;
