@@ -145,7 +145,7 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 **Stack:** `Python` `MySQL` `Streamlit` `Scikit-learn` `Prophet` `Folium` `Plotly` `Power BI`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ev-charging-infrastructure-demand-analysis-june-2026.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694/EV-Charging-Infrastructure-Demand-Analysis)
 
 ---
 
