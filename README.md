@@ -165,6 +165,20 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 
 ---
 
+### 🛒 Retail Inventory Optimization & Supply Chain Performance Analytics
+
+> End-to-end data analytics project focused on inventory optimization, stock performance, supplier analysis, and supply chain insights.
+
+- Analyzes 50,000+ retail transactions across 25 stores, 8 warehouses, and 20 suppliers
+- Identifies stockout risks, slow-moving inventory, and supplier delays through end-to-end analytics
+- Delivers 615 reorder recommendations and a 3-page Tableau dashboard for data-driven decisions
+
+**Stack:** `Python` `SQL` `Excel` `Pandas` `Tableau` `ETL` `Data Analysis` `Supply Chain Analytics`
+
+[![GitHub](https://github.com/Sumersingpatil2694/Retail-Inventory-Supply-Chain-Analytics)
+
+---
+
 ### 🎬 AI-Powered Movie Recommender System
 
 > Content-based filtering system using **cosine similarity** + TMDB API integration
