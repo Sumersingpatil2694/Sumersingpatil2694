@@ -22,7 +22,7 @@
 
 **B.Tech in Artificial Intelligence** | Pune, India 🇮🇳
 
-I'm a data analyst focused on building end-to-end analytical solutions — from raw data ingestion and SQL modeling to machine learning pipelines and interactive dashboards. My work sits at the intersection of **Data Analyst,and applied ML**.
+I'm a data analyst focused on building end-to-end analytical solutions — from raw data ingestion and SQL modeling to machine learning pipelines and interactive dashboards. My work sits at the intersection of **data engineering, analytics, and applied AI-ML**.
 
 - 🎓 **Education:** G H Raisoni Institute of Engineering & Business Management, Jalgaon 
 - 💼 **Experience:** Data Science Intern @ 3RI Technologies Pvt Ltd (Jan 2024 – Jun 2024)
