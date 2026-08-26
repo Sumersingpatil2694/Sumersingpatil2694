@@ -204,7 +204,7 @@ I'm a data analyst focused on building end-to-end analytical solutions — from 
 
 **Stack:** `Python` `MySQL` `Pandas` `Seaborn` `Matplotlib`
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sumersingpatil2694/Student-Exam-Performance-Analysis)
 
 ---
 
