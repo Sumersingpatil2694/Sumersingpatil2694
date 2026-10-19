@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/Sumersingpatil2694.svg?style=flat-square&color=6366f1&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Sumersingpatil2694&label=Profile+Views&color=6366f1&style=flat-square" />
 &nbsp;
 <a href="https://github.com/Sumersingpatil2694?tab=followers">
   <img src="https://img.shields.io/github/followers/Sumersingpatil2694?label=Followers&style=flat-square&color=6366f1" />
